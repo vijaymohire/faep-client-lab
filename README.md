@@ -20,3 +20,7 @@ client-facing assets.
 Research IP, proprietary algorithms,
 and execution pipelines remain
 within private GitLab repositories.
+
+FAEP Client Lab
+GitHub synchronization test.
+
