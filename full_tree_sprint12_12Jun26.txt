@@ -1,0 +1,107 @@
+Folder PATH listing
+Volume serial number is 000000E1 60BA:9B53
+E:.
+|   full_tree_sprint12_12Jun26.txt
+|   LICENSE
+|   README.md
+|   
++---assets
+|   +---architecture
+|   |   |   README.txt
+|   |   |   
+|   |   \---screenshots
+|   |           README.txt
+|   |           
+|   \---images
+|           README.txt
+|           
++---client_access_fabric
+|   |   README.txt
+|   |   
+|   +---github
+|   |       README.txt
+|   |       
+|   +---gitlab_bridge
+|   |       README.txt
+|   |       
+|   \---local_python
+|           README.txt
+|           
++---client_sdk
+|       download_results.py
+|       poll_status.py
+|       submit_job.py
+|       
++---datasets
+|       README.md
+|       sample_sensor.csv
+|       sample_signal.csv
+|       
++---docs
+|   |   architecture.md
+|   |   faq.md
+|   |   getting_started.md
+|   |   milestones.md
+|   |   README.md
+|   |   roadmap.md
+|   |   security_model.md
+|   |   
+|   \---usecases
+|           mars_mission_usecase.md
+|           
++---examples
+|   +---colab_execution
+|   |       README.txt
+|   |       
+|   +---gitlab_execution
+|   |       README.txt
+|   |       
+|   \---local_execution
+|           README.md
+|           
++---notebooks
+|   |   01_signal_analysis_demo.ipynb
+|   |   02_ml_demo.ipynb
+|   |   03_hybrid_qai_demo.ipynb
+|   |   04_faep_pipeline_demo.ipynb
+|   |   demo_report.txt
+|   |   experiment_request.json
+|   |   README.md
+|   |   
+|   +---ai
+|   +---qagi
+|   +---qai
+|   +---qasi
+|   |   \---mars_mission_demo
+|   |       |   README.md
+|   |       |   
+|   |       +---assets
+|   |       |   +---dashboards
+|   |       |   +---images
+|   |       |   \---reports
+|   |       +---v1_intelligence_demo
+|   |       |       Intelligence_types.ipynb
+|   |       |       
+|   |       +---v2_ecosystem_simulator
+|   |       |       ecosystem_simulator.ipynb
+|   |       |       README.md
+|   |       |       
+|   |       \---v3_autonomous_colony
+|   |               autonomous_colony.ipynb
+|   |               README.md
+|   |               
+|   +---reports
+|   |       demo_report.txt
+|   |       
+|   \---requests
+|           experiment_request.json
+|           
++---reports
+|   \---sample_reports
+|           README.md
+|           
+\---templates
+        experiment_config.yaml
+        experiment_request.json
+        report_template.md
+        
